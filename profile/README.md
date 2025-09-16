@@ -1,6 +1,6 @@
 # ✨ Welcome to Has-Needs! ✨
 
-![Has-Needs Logo](https://raw.githubusercontent.com/Has-Needs/Home/main/logo.png)
+![Has-Needs Logo](https://raw.githubusercontent.com/Has-Needs/Home/main/has-needs-logo.png)
 
 We're glad you're here!  
 Has-Needs is a next-generation humanitarian coordination protocol—open, composable, and designed to empower individuals and organizations to meet real-world needs efficiently.

@@ -1,7 +1,7 @@
 # ✨ Welcome to Has-Needs! ✨
 
 <img src="https://raw.githubusercontent.com/Has-Needs/Home/main/has-needs-logo.png" alt="Has-Needs Logo" height="300">
-<img src="GlobeUI.png" alt="Globe UI" height="300" style="margin-left: 20px;">
+<img src="https://github.com/Has-Needs/Home/blob/main/GlobeUI.png" alt="Globe UI" height="300" style="margin-left: 20px;">
 
 
 

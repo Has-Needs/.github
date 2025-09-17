@@ -9,7 +9,7 @@ Has-Needs is a next-generation humanitarian coordination protocol—open, compos
 
 **Has-Needs** was designed for trauma-mitigating disaster logistics but because it provides a sovereignty-based 'forest' of Personal Receipt Chains, it offers oh so much more.
 
-🚀 Main Entry Point: [Home Repository](https://github.com/Has-Needs/Home)  
+🚀 Main Entry Point: [Home Directory](https://github.com/Has-Needs/Home)  
 
 📄 Read the Full Project Doc: [Has-Needs_project.pdf](https://github.com/Has-Needs/docs/blob/main/Has-Needs_Project.pdf)
 

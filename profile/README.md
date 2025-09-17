@@ -11,19 +11,20 @@ Has-Needs is a next-generation humanitarian coordination protocol—open, compos
 
 🚀 Main Entry Point: [Home Repository](https://github.com/Has-Needs/Home)  
 
-📄 Read the Full Project Doc: [Has-Needs_project.md](https://github.com/Has-Needs/Home/blob/main/Has-Needs_project.md)
+📄 Read the Full Project Doc: [Has-Needs_project.pdf](https://github.com/Has-Needs/docs/blob/main/Has-Needs_Project.pdf)
 
 ---
 🌐 Who We Are:  
 Has-Needs is building a world-first ledgerless, sovereign platform with trust, transparency, and speed at the core.
+Actual code is being kept under wraps for now, but this online presence is a good sign. Trust.
 
 🛠 We want to hear from you!  
 Curious hackers, humanitarian technologists, open source thinkers—join us.  
-- Explore our main repo above.
+- Explore our [Docs](https://github.com/Has-Needs/docs) repo.
 - Check out the Discussions.
 - Reach out with questions or ideas.
 
-🫶🌍 _"Let's co-create a more resilient world, one need at a time!"_
+🫶🌍 _"Let's co-create a more resilient world!"_
 
 ---
 

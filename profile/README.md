@@ -7,14 +7,27 @@
 #### We're glad you're here!  
 Has-Needs is a next-generation humanitarian coordination protocol—open, composable, and designed to empower individuals and organizations to meet real-world needs efficiently.
 
-**Has-Needs** was designed for trauma-mitigating disaster logistics but because it provides a sovereignty-based 'forest' of Personal Receipt Chains, it offers oh so much more.
+**Has-Needs** was designed for trauma-mitigating disaster logistics but because it provides a sovereignty-based 'forest' of Personal Receipt Chains, it offers so much more. Like:  
 
+- Accountable Governance
+- Post-Capitalist Economy
+- Local-First Ecosystem
+- Project based Ad-Hocracy
+- Merit-Based Interaction
+- Emergent Resource Mapping
+- Emergent Ontology
+- Right to be Forgotten
+- Jurisdiction Agnostic Evidence
+- Zero Knowledge-Zero Exposure
+- Human Moderated "Safe" AI
+
+  
 🚀 Main Entry Point: [Home Directory](https://github.com/Has-Needs/Home)  
 
 ✨ Check out the [Documentation](https://github.com/Has-Needs/docs)  
 
-📄 Read the Full Project Doc: [Has-Needs_project.pdf](https://github.com/Has-Needs/docs/blob/main/Has-Needs_Project.pdf)
-
+  
+  
 ---
 #### Who We Are:  
 Has-Needs is building a world-first ledgerless, sovereign platform with trust, transparency, and speed at the core.  

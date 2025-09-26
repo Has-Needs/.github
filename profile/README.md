@@ -15,7 +15,9 @@ Has-Needs is a next-generation humanitarian coordination protocol—open, compos
 - Project based Ad-Hocracy
 - Merit-Based Interaction
 - Emergent Resource Mapping
-- Emergent Ontology
+- Literacy Agnostic UI
+- Technology Agnostic IO
+- Emergent Ontologies
 - Right to be Forgotten
 - Jurisdiction Agnostic Evidence
 - Zero Knowledge-Zero Exposure

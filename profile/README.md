@@ -17,16 +17,17 @@ Has-Needs is a next-generation humanitarian coordination protocol—open, compos
 
 ---
 #### Who We Are:  
-Has-Needs is building a world-first ledgerless, sovereign platform with trust, transparency, and speed at the core.
-Actual code is being kept under wraps for now, but this online presence is a good sign. Trust.
-
+Has-Needs is building a world-first ledgerless, sovereign platform with trust, transparency, and speed at the core.  
+Actual code is being kept under wraps for now, but this online presence is a good sign. Trust.  
+  
 🛠 We want to hear from you!  
 Curious hackers, humanitarian technologists, open source thinkers—join us.  
-- Explore our [Docs](https://github.com/Has-Needs/docs) repo.
-- Check out the Discussions.
-- Reach out with questions or ideas.
 
-🫶🌍 _"Let's co-create a more resilient world!"_
+🐚   Check out the [Discussions](https://github.com/orgs/Has-Needs/discussions)  
+
+<img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" width="20"/>   Reach out with questions or ideas on [Discord](https://discord.gg/dv873cFBrJ)  
+  
+🫶🌍 _"Let's co-create a more resilient world!"_  
 
 ---
 

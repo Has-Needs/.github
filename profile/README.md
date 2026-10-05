@@ -6,7 +6,7 @@ Has-Needs is a sovereign coordination protocol built around the minimal semantic
 
 **`[entity, relation, context]` — `HAS · NEED · WORKING`**
 
-It combines participant-controlled disclosure, local semantic matching, contextual trust verification, canonical completed-exchange receipts, living ontology, resilient transport, and literacy-agnostic Data Views.
+It combines participant-controlled disclosure, local semantic matching, live chain-hop trust vetting, canonical completed-exchange receipts, living ontology, resilient transport, and literacy-agnostic Data Views.
 
 The project originated in disaster-response design, where local knowledge becomes most valuable precisely when conventional infrastructure and institutional situational awareness are weakest.
 
@@ -20,3 +20,6 @@ Start with:
 - [Discussions](https://github.com/orgs/Has-Needs/discussions)
 
 The older documents and persona scenarios remain available as design history and source material; V1 governs where they conflict.
+
+
+**License:** Has-Needs is currently source-visible for reference and evaluation, but is **not open source**. See each repository's `LICENSE`; attribution is required for uses licensed by Has-Needs.

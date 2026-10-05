@@ -1,47 +1,22 @@
-# ✨ Welcome to Has-Needs!
+# Has-Needs
 
-<img src="https://raw.githubusercontent.com/Has-Needs/Home/main/has-needs-logo.png" valign="top" alt="Has-Needs Logo" width="200"/><img src="https://github.com/Has-Needs/Home/blob/main/GlobeUI.png" alt="Globe UI" width="300" style="margin-left: 20px;"/>
+<img src="https://raw.githubusercontent.com/Has-Needs/Home/main/has-needs-logo.png" alt="Has-Needs logo" width="180">
 
+Has-Needs is a sovereign coordination protocol built around the minimal semantic triplet:
 
+**`[entity, relation, context]` — `HAS · NEED · WORKING`**
 
-#### We're glad you're here!  
-Has-Needs is a next-generation humanitarian coordination protocol—open, composable, and designed to empower individuals and organizations to meet real-world needs efficiently.
+It combines participant-controlled disclosure, local semantic matching, contextual trust verification, canonical completed-exchange receipts, living ontology, resilient transport, and literacy-agnostic Data Views.
 
-**Has-Needs** was designed for trauma-mitigating disaster logistics but because it provides a sovereignty-based 'forest' of Personal Receipt Chains, it offers so much more. Like:  
+The project originated in disaster-response design, where local knowledge becomes most valuable precisely when conventional infrastructure and institutional situational awareness are weakest.
 
-- Accountable Governance
-- Post-Capitalist Economy
-- Local-First Ecosystem
-- Project based Ad-Hocracy
-- Merit-Based Interaction
-- Emergent Resource Mapping
-- Literacy Agnostic UI
-- Technology Agnostic IO
-- Emergent Ontologies
-- Right to be Forgotten
-- Jurisdiction Agnostic Evidence
-- Zero Knowledge-Zero Exposure
-- Human Moderated "Safe" AI
+**Current status:** Specification V1 is a working draft for expert review; implementation remains experimental 0.x.
 
-  
-🚀 Main Entry Point: [Home Directory](https://github.com/Has-Needs/Home)  
+Start with:
+- [Specification V1](https://github.com/Has-Needs/docs/blob/main/Has-Needs-Spec-v1.md)
+- [Development Roadmap](https://github.com/Has-Needs/docs/blob/main/ROADMAP.md)
+- [Documentation](https://github.com/Has-Needs/docs)
+- [Experimental implementation](https://github.com/Has-Needs/code)
+- [Discussions](https://github.com/orgs/Has-Needs/discussions)
 
-✨ Check out the [Documentation](https://github.com/Has-Needs/docs)  
-
-  
-  
----
-#### Who We Are:  
-Has-Needs is building a world-first ledgerless, sovereign platform with trust, transparency, and speed at the core. 
-  
-🛠 We want to hear from you!  
-Curious hackers, humanitarian technologists, open source thinkers—join us.  
-
-🐚   Check out the [Discussions](https://github.com/orgs/Has-Needs/discussions)  
-
-<img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" width="20"/>   Reach out with questions or ideas on [Discord](https://discord.gg/dv873cFBrJ)  
-  
-🫶🌍 _"Let's co-create a more resilient world!"_  
-
----
-
+The older documents and persona scenarios remain available as design history and source material; V1 governs where they conflict.

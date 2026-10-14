@@ -6,7 +6,9 @@ Has-Needs is a sovereign coordination protocol built around the minimal semantic
 
 **`[entity, relation, context]` — `HAS · NEED · WORKING`**
 
-It combines participant-controlled disclosure, local semantic matching, live chain-hop trust vetting, canonical completed-exchange receipts, living ontology, resilient transport, and literacy-agnostic Data Views.
+**The Persona Manager acts as a concierge, managing interactions through any number of user-created personas while their underlying personal chain remains sacrosanct.** Only the manager maintains and operates the private chain. A participant may associate a professional persona with completed work while keeping all other personas unlinkable through the protocol.
+
+Has-Needs combines consented semantic matching, event-based trust vetting, private reciprocal transaction receipts, living ontology, resilient transport, and literacy-agnostic Data Views. Upon completion, each participant independently adds any optional metadata, chooses what to leave plaintext or encrypted, and reviews the other's choices before marking **Ready to commit**. The Persona Managers then commit identical receipts.
 
 The project originated in disaster-response design, where local knowledge becomes most valuable precisely when conventional infrastructure and institutional situational awareness are weakest.
 

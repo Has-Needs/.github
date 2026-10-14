@@ -2,28 +2,23 @@
 
 <img src="https://raw.githubusercontent.com/Has-Needs/Home/main/has-needs-logo.png" alt="Has-Needs logo" width="180">
 
-Has-Needs is a sovereign coordination protocol built around the minimal semantic triplet:
+**What do you have? What do you need? What can we accomplish together?**
 
-**`[entity, relation, context]` — `HAS · NEED · WORKING`**
+**Has-Needs is a world-first architecture for sovereign human exchange.** It helps people find one another, share what they choose, make agreements, and preserve their own records of what they accomplish together.
 
-That grammar crystallized more than fifteen years of reduction: fewer special-case mechanisms, more kinds of human exchange. **No preset categories, prescribed language, or literacy requirement precede a Need.** Meaning begins in each person's local dialect and community, growing through chosen connections and evidenced outcomes. Human exchange remains primary; education, payments, and institutional attestations compose onto it without taking custody of the person's private chain.
+Most digital services organize people around a platform. Has-Needs begins with the person. Individuals retain control of their identities and information; communities form through consent; organizations can participate without taking ownership of the relationships or their history.
 
-**The Persona Manager acts as a concierge, managing interactions through any number of user-created personas while their underlying personal chain remains sacrosanct.** Only the manager maintains and operates the private chain. A participant may associate a professional persona with completed work while keeping all other personas unlinkable through the protocol.
+It began in disaster-response work, where someone needing help may also hold knowledge that can save others. The same foundation applies in everyday life: neighbors cooperating, farmers exchanging resources, citizens engaging with government, and people sharing knowledge on their own terms.
 
-Has-Needs combines consented semantic matching, event-based trust vetting, private reciprocal transaction receipts, living ontology, resilient transport, and literacy-agnostic Data Views. Upon completion, each participant independently adds any optional metadata, chooses what to leave plaintext or encrypted, and reviews the other's choices before marking **Ready to commit**. The Persona Managers then commit identical receipts.
+**The principle is simple: sovereignty makes cooperation stronger.**
 
-The project originated in disaster-response design, where local knowledge becomes most valuable precisely when conventional infrastructure and institutional situational awareness are weakest.
+## Discover Has-Needs
 
-**Current status:** Specification V1 is a working draft for expert review; implementation remains experimental 0.x.
+- **[Start here: Home overview](https://github.com/Has-Needs/Home)** — a little more about the idea and its possibilities
+- **[Documentation](https://github.com/Has-Needs/docs)** — the introduction, architecture, history, and roadmap
+- [One-page introduction](https://github.com/Has-Needs/docs/blob/main/INTRODUCTION.md) — a practical first example
+- [V1 specification](https://github.com/Has-Needs/docs/blob/main/Has-Needs-Spec-v1.md) — the architectural source of truth
+- [Experimental code](https://github.com/Has-Needs/code) — prototypes and exploration
+- [Discussions](https://github.com/orgs/Has-Needs/discussions) — questions and conversation
 
-Start with:
-- [Specification V1](https://github.com/Has-Needs/docs/blob/main/Has-Needs-Spec-v1.md)
-- [Development Roadmap](https://github.com/Has-Needs/docs/blob/main/ROADMAP.md)
-- [Documentation](https://github.com/Has-Needs/docs)
-- [Experimental implementation](https://github.com/Has-Needs/code)
-- [Discussions](https://github.com/orgs/Has-Needs/discussions)
-
-The older documents and persona scenarios remain available as design history and source material; V1 governs where they conflict.
-
-
-**License:** Has-Needs is currently source-visible for reference and evaluation, but is **not open source**. See each repository's `LICENSE`; attribution is required for uses licensed by Has-Needs.
+*Source-visible for reference and evaluation; not open source. Refer to the LICENSE in each repository for applicable terms.*

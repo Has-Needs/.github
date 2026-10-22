@@ -24,3 +24,9 @@ It began in disaster-response work, where someone needing help may also hold kno
 - [Discussions](https://github.com/orgs/Has-Needs/discussions) — questions and conversation
 
 *Source-visible for reference and evaluation; not open source. Refer to the LICENSE in each repository for applicable terms.*
+
+## One mechanism, many forms of cooperation
+
+A Need is a smart contract with standard templates and custom options. The WORKING state connects the involved Has and Needs while that contract executes—whether coordinating a delivery, a service request, or an open-ended Community. Delegation and permissioned data streams follow its terms. Outcomes are recorded in identical receipts written simultaneously to participants' private chains, with selective disclosure and mutual verification. The worker who fulfills a request informs the local ontology's self-pruning route to future resolution.
+
+Read [contracts, delegation, and streams](https://github.com/Has-Needs/docs/blob/main/WORKING_CONTRACTS_AND_DELEGATION.md) for examples.

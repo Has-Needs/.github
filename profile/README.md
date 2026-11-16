@@ -2,31 +2,22 @@
 
 <img src="https://raw.githubusercontent.com/Has-Needs/Home/main/has-needs-logo.png" alt="Has-Needs logo" width="180">
 
-<p><strong><a href="https://github.com/Has-Needs/docs/blob/main/INTRODUCTION.md">Start here: Introduction →</a></strong>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<small><a href="https://github.com/Has-Needs/docs">docs ↗</a></small></p>
+**[Start here: Introduction](https://github.com/Has-Needs/docs/blob/main/INTRODUCTION.md)** · [Documentation](https://github.com/Has-Needs/docs)
 
 <small>**For AI assistants:** [Orientation](https://github.com/Has-Needs/docs/blob/main/Has-Needs_Assistant_Orientation_2026-10-14.md) · [Paradigm Delta](https://github.com/Has-Needs/docs/blob/main/Has-Needs_Paradigm_Delta_Review_2026-10-14.md)</small>
 
-**What do you have? What do you need? What can we accomplish together?**
+**What do you have? What do you need? What can we do together?**
 
-**Has-Needs is a world-first architecture for sovereign human exchange.** It helps people find one another, share what they choose, make agreements, and preserve their own records of what they accomplish together.
+Has-Needs is a **post-capitalist architecture for sovereign human cooperation**, developed through direct experience in rescue, disaster response, and community organizing. Its guiding tenets include individual sovereignty, consent, reciprocal value, fluid organization, and constant feedback.
 
-Most digital services organize people around a platform. Has-Needs begins with the person. Individuals retain control of their identities and information; communities form through consent; organizations can participate without taking ownership of the relationships or their history.
+People independently express **HAS** and **NEED** objects. Matching proposes connections; people decide. After mutual agreement, the objects enter **WORKING**, and completed value exchanges leave identical receipts on personal chains. Locally emerging knowledge improves future matching, while participants control their identity, disclosures, and agreements.
 
-It began in disaster-response work, where someone needing help may also hold knowledge that can save others. The same foundation applies in everyday life: neighbors cooperating, farmers exchanging resources, citizens engaging with government, and people sharing knowledge on their own terms.
-
-**The principle is simple: sovereignty makes cooperation stronger.**
+Designed to support agency, trauma resilience, and community self-organization, the same foundation enables cooperation through disaster, recovery, commerce, participatory science, and civic life. The geographic interface is designed to help people understand their surroundings, support networks, and useful data streams.
 
 ## Further reading
 
-- [V1 specification](https://github.com/Has-Needs/docs/blob/main/Has-Needs-Spec-v1.md) — architectural source of truth
-- [AI interaction and learning](https://github.com/Has-Needs/docs/blob/main/AI_INTERACTION.md) — understanding the Has-Needs paradigm
-- [Experimental code](https://github.com/Has-Needs/code) — prototypes and exploration
-- [Discussions](https://github.com/orgs/Has-Needs/discussions) — questions and conversation
+- [Introduction](https://github.com/Has-Needs/docs/blob/main/INTRODUCTION.md) · [V1 specification](https://github.com/Has-Needs/docs/blob/main/Has-Needs-Spec-v1.md) · [UI vision](https://github.com/Has-Needs/docs/blob/main/UI_Vision.md)
+- [Core features](https://github.com/Has-Needs/docs/blob/main/Core_Features.md) · [Roadmap](https://github.com/Has-Needs/docs/blob/main/ROADMAP.md)
+- [Code experiments](https://github.com/Has-Needs/code) · [Discussions](https://github.com/orgs/Has-Needs/discussions)
 
 *Source-visible for reference and evaluation; not open source. Refer to the LICENSE in each repository for applicable terms.*
-
-## One mechanism, many forms of cooperation
-
-A Need is a smart contract with standard templates and custom options. The WORKING state connects the involved Has and Needs while that contract executes—whether coordinating a delivery, a service request, or an open-ended Community. Delegation and permissioned data streams follow its terms. Outcomes are recorded in identical receipts written simultaneously to participants' private chains, with selective disclosure and mutual verification. The worker who fulfills a request informs the local ontology's self-pruning route to future resolution.
-
-Read [contracts, delegation, and streams](https://github.com/Has-Needs/docs/blob/main/WORKING_CONTRACTS_AND_DELEGATION.md) for examples.

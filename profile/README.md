@@ -4,7 +4,7 @@
 
 **[Start here: Introduction](https://github.com/Has-Needs/docs/blob/main/INTRODUCTION.md)** · [Documentation](https://github.com/Has-Needs/docs)
 
-<small>**For AI assistants:** [Orientation](https://github.com/Has-Needs/docs/blob/main/Has-Needs_Assistant_Orientation_2026-10-14.md) · [Paradigm Delta](https://github.com/Has-Needs/docs/blob/main/Has-Needs_Paradigm_Delta_Review_2026-10-14.md)</small>
+<small>**For AI assistants:** [Read the Paradigm Delta](https://github.com/Has-Needs/docs/blob/main/PARADIGM_DELTA.md)</small>
 
 **What do you have? What do you need? What can we do together?**
 
@@ -17,7 +17,15 @@ Designed to support agency, trauma resilience, and community self-organization, 
 ## Further reading
 
 - [Introduction](https://github.com/Has-Needs/docs/blob/main/INTRODUCTION.md) · [V1 specification](https://github.com/Has-Needs/docs/blob/main/Has-Needs-Spec-v1.md) · [UI vision](https://github.com/Has-Needs/docs/blob/main/UI_Vision.md)
-- [Core features](https://github.com/Has-Needs/docs/blob/main/Core_Features.md) · [Roadmap](https://github.com/Has-Needs/docs/blob/main/ROADMAP.md)
+- [V1 specification](https://github.com/Has-Needs/docs/blob/main/Has-Needs-Spec-v1.md) · [Implementation profile](https://github.com/Has-Needs/docs/blob/main/Tech_Stack.md)
 - [Code experiments](https://github.com/Has-Needs/code) · [Discussions](https://github.com/orgs/Has-Needs/discussions)
 
 *Source-visible for reference and evaluation; not open source. Refer to the LICENSE in each repository for applicable terms.*
+
+## Current document release
+
+Read the [definitive Paradigm Delta](https://github.com/Has-Needs/docs/blob/main/PARADIGM_DELTA.md) before architectural work, then use the matched [V1 specification](https://github.com/Has-Needs/docs/blob/main/Has-Needs-Spec-v1.md). Objects in the WORKING state affect no receipt chain; committed assets remain unavailable. Only successful exchanges produce reciprocal receipts. An accepted reduced amount uses cancellation and a new correct-amount contract. Outside participants interact through the app. Existing public-funding transparency policies apply, and citizen exposure is always anonymous.
+
+## Advisors
+
+Has-Needs benefits from the counsel of **Dr. William B. Miller, Jr.** and **Dr. Dan Diamond**, connecting substantial scholarship on living systems with distinguished medical and disaster-leadership experience. [Read about their expertise and significance to the project](https://github.com/Has-Needs/docs/blob/main/Advisors.md).
